@@ -1,0 +1,5 @@
+db.mysql.location=E:\maven\jiabaocangku\mysql\mysql-connector-java\5.1.47mysql-connector-java-5.1.47.jar
+db.driver=com.mysql.jdbc.Driver
+db.url=jdbc:mysql://localhost:3306/business?character=utf-8
+db.username=root
+db.password=123456
